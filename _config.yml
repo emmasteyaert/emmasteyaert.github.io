@@ -12,7 +12,7 @@ lang: en-US
 title: "Emma Steyaert"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Emma is an amazing employee and you should hire her!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -47,8 +47,8 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+  content: ""
+  has_social: false
 
 # Plugins
 plugins:
